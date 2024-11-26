@@ -2,9 +2,11 @@
 Bem-vindo ao meu perfil do GitHub! 👋
 Sou Davi Oliveira Maia, estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia. 🚀
 
+
 <a href="https://github.com/davu123/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davu123&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+
 
 🌱 Sobre mim
 🎓 Atualmente, estou estudando Back-end e me especializando nas linguagens e ferramentas:
