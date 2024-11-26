@@ -46,8 +46,8 @@ Sou **Davi Oliveira Maia**, estudante de Ciência da Computação, apaixonado po
 
 ## 📫 Contato  
 
-📧 **E-mail:** [seuemail@example.com](mailto:seuemail@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/davioliveiramaia](https://www.linkedin.com/in/seulinkedin)  
+📧 **E-mail:** davimaia417@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/davi-maia-a231b2309/
 
 ---
 
